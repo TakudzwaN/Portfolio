@@ -224,7 +224,7 @@ body {
     }
 
 .back-footer a {
-    background-color: #f9f9f9;
+    background-color: #f8f9fa;
     text-decoration: none;
     font-size: 15px;
     width: 120px;
@@ -233,15 +233,15 @@ body {
     text-align: center;
     padding: 7px 5px;
     border: 1px solid #000;
-    margin-top: 30px;
+    margin-top: auto;
     transition: 0.5s;
 }
 
     .back-footer a:hover {
         text-decoration: none;
         color: #000;
-        background-color: rgba(247,248,249,0.8);
-        border: 1px solid rgb(122, 122, 122);
+        background-color: rgb(245,246,247);
+        border: 2px solid #fff;
     }
 
 
